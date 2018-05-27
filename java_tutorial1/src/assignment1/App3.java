@@ -1,11 +1,6 @@
 package assignment1;
 
 public class App3 {
-	
-	public static final int MIN_LENGTH = 10;
-	public static final int MIN_WIDTH = 40;
-	public static final int MAX_LENGTH = 50;
-	public static final int MAX_WIDTH = 100;
 
 	public static void main(String[] args) {
 		
